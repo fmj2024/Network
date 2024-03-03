@@ -4,7 +4,7 @@ check.addEventListener('click', idioma);
 function idioma() {
     let id=check.checked;
     if (id==true) {
-        location.href= "../es/indexex.html";
+        location.href= "../es/esin.html";
     } else{
         location.href = "../index.html";
     }
